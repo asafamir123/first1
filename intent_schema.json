@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "HalloIntent"
+    },
+    {
+      "intent": "HalloNameIntent",
+      "slots": [
+        {
+          "name": "PersonName",
+          "type": "AMAZON.DE_FIRST_NAME"
+        }
+      ]
+    }
+  ]
+}
